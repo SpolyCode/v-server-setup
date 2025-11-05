@@ -24,6 +24,7 @@ sudo apt update
 sudo apt install nginx -y
 
 To customize the site, I created a new index file:
+
 sudo touch /var/www/alternatives/alternate-index.html
 
 sudo nano /var/www/alternatives/alternate-index.html
